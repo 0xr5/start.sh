@@ -23,7 +23,7 @@ screen -AmdS Minecraft java -Xms512M -Xmx4096M -jar server.jar
 | -jar server.jar | Setzt für Java den Parameter -jar und gibt die Datei an, die geöffnet werden soll. |
 
 ### Andere Ram-Einstellungen
-Anstatt wie oben "4096M" oder "512M" zu verwenden, kann man auch einfach "4G" verwenden. Hier gibt es eine Tabelle, mit einer persönlichen Empfehlung von mir.
+Je nach Hardware auf dem Server benötigt jeder Minecraft Server individuelle Einstelungen. Hat man z.B nur 2GB Ram, sollte dieser nicht alleine vom Minecraft Server belegt werden. Deshalb sollte man darauf achten, die richtigen Einstellungen für den jeweiligen Server zu finden. Hier gibt es eine Tabelle mit den beliebtesten Schritten, mit einer Empfehlung von mir. 1024M = 1GB Ram | 2048M = 2GB Ram usw.
 
 | MB (M)  | Empfehlung |
 | ------------- | ------------- |
